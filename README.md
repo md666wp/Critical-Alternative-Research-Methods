@@ -6,4 +6,5 @@ Check the course WIKI to the the full course documentation: Introduction to the 
 
 Contact: 
 For questions about the organisation, reach out to otherwise@wur.nl
+
 For questions about the CARM 2026 course, reach out to mathea.debant@ru.nl
